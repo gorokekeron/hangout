@@ -1,4 +1,4 @@
-package com.myspring.hangout;
+package com.myspring.hangout.controller;
 
 import java.text.DateFormat;
 import java.util.Date;
